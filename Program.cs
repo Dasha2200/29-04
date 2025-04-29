@@ -11,5 +11,7 @@ class Program
         Console.WriteLine("4. Операция -");
         Console.WriteLine("5. Операция *");
         Console.WriteLine("6. Операция /");
+        Console.Write("Введите A: ");
+        double a = Convert.ToDouble(Console.ReadLine());
     }
 }

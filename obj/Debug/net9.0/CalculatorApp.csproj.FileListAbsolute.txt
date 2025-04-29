@@ -12,3 +12,4 @@ C:\Users\Алина\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net9.0\re
 C:\Users\Алина\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.pdb
 C:\Users\Алина\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.genruntimeconfig.cache
 C:\Users\Алина\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net9.0\ref\CalculatorApp.dll
+C:\Users\Алина\source\repos\CalculatorApp\CalculatorApp\obj\Debug\net9.0\CalculatorApp.sourcelink.json
